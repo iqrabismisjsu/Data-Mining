@@ -29,7 +29,7 @@ A list of features under development are:
 ## Future Enhancements
 
 - Add additional arithmetic operations
-- Design of either a command line or a graphical user interface (GUI)
+- Design of either a command line or a graphical user interface
 
 ## Communication
 
